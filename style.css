@@ -1,0 +1,20 @@
+.background-width-height {
+    max-height: 540px;
+    border-radius: 20px;
+    background-color: #FEEAE9;
+}
+
+.button {
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+    background-color: rgb(255, 92, 152);
+}
+
+
+.images {
+    padding-top: 2%;
+    height: 480px;
+}
